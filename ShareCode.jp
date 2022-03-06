@@ -1,0 +1,8 @@
+javascript:{var a=document.querySelector("#dt-tab > div > ul");var l=a.getElementsByTagName("img");for(var i=0;i<l.length;i++){var strlink=l[i].src;if(strlink.search("60x60")>-1){strlink=strlink.replace(".60x60","");window.open(strlink,'_blank').focus();console.log(strlink);}}}
+
+javascript: {var url = document.querySelector("#detail-main-video-content > div > video > source").src;window.open(url);}
+
+ctr + shift + b;
+
+Chanel: https://www.youtube.com/channel/UCA-EcGqe2q14OmyW3yRC3Mg
+Cảm ơn các bạn, tặng mình một sub để ủng hộ kênh mình nhé
